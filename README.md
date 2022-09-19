@@ -2,7 +2,7 @@
 
 For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles I think they will like.
 
-The notebook containing the analysis can be found [here](Recommendations_with_IBM.ipynb)
+The notebook containing the analysis can be found [here](Recommendations_with_IBM.ipynb).
 
 ## The project is divided into the following tasks
 
