@@ -24,4 +24,5 @@ V. Matrix Factorization
 
 Finally, you will complete a machine learning approach to building recommendations. Using the user-item interactions, you will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great). You will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
 
-## This project was developed as part of the Udacity Data Scientist Nanodegree
+## Udacity Acknowledgement
+This project was developed as part of the Udacity Data Scientist Nanodegree.
